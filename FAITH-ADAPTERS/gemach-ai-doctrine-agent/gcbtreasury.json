@@ -1,0 +1,9 @@
+{
+  "w3id": "gcbtreasury",
+  "role": "treasury-governance-node",
+  "walletConnected": true,
+  "gcbHolder": true,
+  "institution": "Goldstonian Concordance Bible",
+  "adapter": "faith",
+  "treasury": true
+}
