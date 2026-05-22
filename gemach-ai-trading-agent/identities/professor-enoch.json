@@ -1,0 +1,14 @@
+{
+  "w3id": "professor-enoch",
+  "type": "institutional-ai-node",
+  "walletConnected": true,
+  "gcbHolder": true,
+  "roles": [
+    "educator",
+    "governance-participant",
+    "treasury-advisor",
+    "field-research-agent"
+  ],
+  "institution": "SydTek University",
+  "adapter": "identity"
+}
