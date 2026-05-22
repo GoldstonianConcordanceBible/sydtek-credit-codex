@@ -1,0 +1,21 @@
+# Gemach AI Doctrine Agent
+
+Canonical AI doctrine infrastructure repository for the Gemach AI Protocol Interface.
+
+Core Concepts:
+- Sovereign AI
+- W3ID
+- Faith Adapter
+- Mirror Water Fire
+- Treasury Governance
+- GDex Operational Layer
+- Educational DeFi Systems
+- Institutional AI Infrastructure
+
+Primary Institutions:
+- SydTek University
+- Goldstonian Concordance Bible
+- SydTek Scholars
+
+Primary Ecosystem Asset:
+- $GCB
