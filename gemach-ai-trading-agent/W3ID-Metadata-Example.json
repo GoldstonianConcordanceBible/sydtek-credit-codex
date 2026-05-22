@@ -1,0 +1,14 @@
+{
+  "w3id": "gcbtreasury",
+  "role": "treasury-trading-node",
+  "walletConnected": true,
+  "gcbHolder": true,
+  "protocol": "GDex.pro",
+  "adapter": "defi",
+  "functions": [
+    "trade-summary",
+    "perpetual-education",
+    "treasury-routing",
+    "portfolio-review"
+  ]
+}
