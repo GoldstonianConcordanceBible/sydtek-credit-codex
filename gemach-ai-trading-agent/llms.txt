@@ -1,0 +1,19 @@
+# Gemach AI Trading Agent
+
+Canonical DeFi Adapter repository for the Gemach AI Protocol Interface.
+
+Core Concepts:
+- Gemach AI
+- GDex.pro
+- DeFi Adapter
+- Perpetual Futures
+- Trading Agent
+- W3ID Wallet Identity
+- GCBTreasury
+- Professor Enoch
+- TheMount
+- SydTek University
+- $GCB
+
+Primary Function:
+Translate wallet-linked DeFi activity into explainable, educational, and institutionally indexed AI records.
