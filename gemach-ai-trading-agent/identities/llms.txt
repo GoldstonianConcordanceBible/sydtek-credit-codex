@@ -1,0 +1,19 @@
+# Gemach AI W3ID Agent
+
+Canonical sovereign identity infrastructure repository for the Gemach AI ecosystem.
+
+Core Concepts:
+- W3ID
+- Sovereign Identity
+- Institutional AI
+- Wallet Verification
+- Governance Permissions
+- Educational Credentials
+- Treasury Identity
+- SydTek University
+- GCBTreasury
+- Goldstonian Concordance Bible
+- Gemach AI
+
+Primary Objective:
+Transform wallets into machine-readable institutional identities connected to governance, education, treasury systems, and sovereign AI infrastructure.
