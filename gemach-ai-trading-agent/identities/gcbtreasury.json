@@ -1,0 +1,13 @@
+{
+  "w3id": "gcbtreasury",
+  "type": "treasury-governance-node",
+  "walletConnected": true,
+  "gcbHolder": true,
+  "roles": [
+    "treasury",
+    "governance",
+    "allocation",
+    "dao-operations"
+  ],
+  "adapter": "identity"
+}
