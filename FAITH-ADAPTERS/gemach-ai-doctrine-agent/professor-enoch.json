@@ -1,0 +1,9 @@
+{
+  "w3id": "professor-enoch",
+  "role": "doctrinal-ai-agent",
+  "walletConnected": true,
+  "gcbHolder": true,
+  "institution": "SydTek University",
+  "adapter": "faith",
+  "governance": true
+}
